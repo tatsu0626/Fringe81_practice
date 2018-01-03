@@ -1,0 +1,3 @@
+rootProject.name = 'Fringe81'
+
+include ':app'
